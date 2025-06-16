@@ -1,5 +1,9 @@
 #include <iostream>
 
+/**
+ * @brief a class for IO functions
+ * 
+ */
 class CreateIO
 {
     public:
